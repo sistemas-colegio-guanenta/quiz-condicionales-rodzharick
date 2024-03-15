@@ -5,6 +5,18 @@
 
 Dados tres números a, b y c, correspondientes a la longitud de los lados de una figura geométrica, determinar si pueden formar los lados de un triángulo.
 
+variables de entrada
+a: digite primer numero
+b: digite segundo numero
+c: digite tercer numero
+
+variables de proceso
+a+b<c
+b+c<a
+c+a<b
+
+procesos de salida
+triangulo: si es un triagulo o no es un triangulo
 ## DISEÑO
 
 ### Diagrama de flujo
